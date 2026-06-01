@@ -1,0 +1,10 @@
+pymatgen==2024.2.8
+pandas==2.2.0
+numpy==1.26.4
+matplotlib==3.7.1
+jupyter==1.0.0
+notebook==7.0.0
+ipython==8.21.0
+mp-api>=0.32.0
+python-dotenv>=1.0.0
+ase>=3.22.0
